@@ -1,5 +1,5 @@
 <?php
-CREATE TABLE `transactions` (
+$table= CREATE TABLE `transactions` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `customer_name` varchar(50) DEFAULT NULL,
   `customer_email` varchar(50) DEFAULT NULL,
